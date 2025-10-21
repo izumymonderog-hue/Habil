@@ -1,0 +1,24 @@
+body {
+baground color : #FFFFE0; /* warna kuning cerah */
+font-family: arial' sans-serif; /* jenis huruf yang bersih dan mudah di baca */
+color:w191970; /* warna teks utama (Biru Gelap) */
+}
+
+.Kartu-profil widt
+width: 300px;
+margain: 50px auto; /* 50px jarak atas/bawah, auto menengahkan kiri/kanan */
+padding: 20px;
+baground-color: white;
+border-radius: 15px; /* membuat sudut menjadi melengkung */
+box-shadow: 0 4px 8px rgba(0,0,0,0,1); /* efek bayangan */
+text-align center;
+}
+
+.kartu-profil ing {
+width: 150px;
+border-radius: 50px; /*trik untuk membuat gambar persegi menjadi lingkaran sempurna */
+}
+.kartu-profil{
+ /*
+ text-align: center; /* Menengahkan semua teks di dalam kartun */
+}
